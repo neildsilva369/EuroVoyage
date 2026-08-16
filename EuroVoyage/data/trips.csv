@@ -1,0 +1,11 @@
+mode,icon,from,to,operator,price,duration_minutes,stops,note
+Train,🚆,London,Paris,Eurostar,44.00,136,Direct,City centre → city centre
+Train,🚆,Paris,Amsterdam,Eurostar,35.00,200,Direct,High-speed rail
+Train,🚆,Brussels,Paris,Eurostar,29.00,92,Direct,High-speed rail
+Flight,✈️,London,Paris,Example Air,49.00,80,Direct,Sample fare
+Flight,✈️,Dublin,Birmingham,Ryanair,14.99,90,Direct,Sample base fare
+Flight,✈️,Cork,Paris,Ryanair,14.99,100,Direct,Sample base fare
+Flight,✈️,Shannon,Liverpool,Ryanair,14.79,75,Direct,Sample base fare
+Bus,🚌,Paris,Brussels,FlixBus,9.99,240,Direct,Sample coach fare
+Bus,🚌,Amsterdam,Berlin,FlixBus,19.99,390,Direct,Sample coach fare
+Bus,🚌,Munich,Prague,FlixBus,17.99,300,Direct,Sample coach fare
